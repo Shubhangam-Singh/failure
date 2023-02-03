@@ -20,3 +20,5 @@ I Have tried to calculate the score, using various data.
 - View the page as html and the raw `html` response and save it as `question_paper.html`.
 
 So the data is ready
+
+Ok good but ye socho itna matha pacchi karne se aacha 🤦 log bas last ke do digit match karwa ke nehi kar lenge dono 15-20 min ke karya hain....
